@@ -1,11 +1,19 @@
-# 👨‍💻 Pedro Elvis
+<!-- Banner Animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:00F7FF,100:6A5ACD&height=250&section=header&text=Pedro%20Elvis%20👨‍💻&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=🚀+Bem-vindo+ao+meu+perfil!;👨‍💻+Programador+e+Entusiasta+de+Tecnologia;💡+Sempre+aprendendo+e+criando+coisas+novas;🔥+Foco+em+JavaScript,+Node.js+e+Web+Dev!)](https://git.io/typing-svg)
+<!-- Typing Animado -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5733&size=24&center=true&vCenter=true&width=800&lines=💻+Fullstack+em+evolução;🔥+Focado+em+Node.js+e+Web+Dev;🚀+Sempre+buscando+novos+desafios;🌍+Tecnologia+muda+o+mundo!)](https://git.io/typing-svg)
 
 ---
 
+### 👋 Sobre mim
+Meu nome é **Pedro Elvis**, tenho **25 anos** e sou apaixonado por programação.  
+Desde os meus **10 anos** exploro o universo da tecnologia, sempre aprendendo e criando coisas novas.  
+
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 ---
@@ -49,27 +57,14 @@
 
 ---
 
-### 🎬 Sobre mim
-
-- 💡 **Idade:** 25 anos  
-- 🌍 **Desde os 10 anos** explorando tecnologia  
-- 🔥 **Foco atual:** Node.js, JavaScript avançado e Web Development  
-- 📚 Sempre em busca de novos desafios e aprendizados  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="Dev GIF"/>
-</p>
-
----
-
 ### 🐍 Snake Animation
+> ⚡ Para funcionar, adicione o workflow `snake.yml` que te passei antes!  
 
 ![Snake animation](https://github.com/elvisqt/elvisqt/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 🌊 Ondas Animadas
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
 </p>
