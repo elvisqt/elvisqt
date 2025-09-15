@@ -1,18 +1,26 @@
 # 👨‍💻 Pedro Elvis
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Entusiasta+de+Programação;Apaixonado+por+Tecnologia;Sempre+aprendendo+novas+coisas!)](https://git.io/typing-svg)
-
-Meu nome é Pedro Elvis, tenho **25 anos** e sou apaixonado por programação.  
-Desde os meus 10 anos exploro o universo da tecnologia, sempre buscando aprender, criar e compartilhar ideias no vasto mundo do desenvolvimento. 🚀
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=🚀+Bem-vindo+ao+meu+perfil!;👨‍💻+Programador+e+Entusiasta+de+Tecnologia;💡+Sempre+aprendendo+e+criando+coisas+novas;🔥+Foco+em+JavaScript,+Node.js+e+Web+Dev!)](https://git.io/typing-svg)
 
 ---
 
-<p align="left">
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding GIF"/>
+</p>
+
+---
+
+### 🌐 Conecte-se comigo
+
+<p align="center">
   <a href="https://www.instagram.com/pdr0vi" target="_blank">
-    <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/-Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://github.com/elvisqt?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/elvisqt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+  <a href="https://github.com/elvisqt?tab=followers" target="_blank">
+    <img alt="GitHub" title="Me siga no GitHub" src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@email.com">
+    <img alt="Email" title="Entre em contato" src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -20,38 +28,48 @@ Desde os meus 10 anos exploro o universo da tecnologia, sempre buscando aprender
 
 ### 🚀 Linguagens e Tecnologias
 
-<p align="left">
-  <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-  <img alt="PHP" title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-  <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-  <img alt="C++" title="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<p align="center">
+  <img alt="HTML5" title="HTML5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" title="CSS3" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="Node.js" title="Node.js" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="PHP" title="PHP" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img alt="MySQL" title="MySQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  <img alt="C++" title="C++" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 </p>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-<p>
-  <img align="left" alt="Estatísticas do GitHub" height="190" src="https://github-readme-stats.vercel.app/api?username=elvisqt&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img align="left" alt="Tecnologias mais usadas" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisqt&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"/>
+<p align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=elvisqt&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"/>
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisqt&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=6"/>
 </p>
 
 ---
 
-### 🎬 Um pouco mais sobre mim
+### 🎬 Sobre mim
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
+- 💡 **Idade:** 25 anos  
+- 🌍 **Desde os 10 anos** explorando tecnologia  
+- 🔥 **Foco atual:** Node.js, JavaScript avançado e Web Development  
+- 📚 Sempre em busca de novos desafios e aprendizados  
 
-- 💡 Sempre em busca de novos desafios em programação  
-- 📚 Estudando e desenvolvendo projetos para evoluir minhas skills  
-- 🌍 Acredito que a tecnologia pode mudar o mundo  
-- 🎯 Foco atual: **Node.js + JavaScript avançado**  
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="Dev GIF"/>
+</p>
 
 ---
 
 ### 🐍 Snake Animation
 
 ![Snake animation](https://github.com/elvisqt/elvisqt/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🌊 Ondas Animadas
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
+</p>
