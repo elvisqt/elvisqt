@@ -1,13 +1,18 @@
 # 👨‍💻 Pedro Elvis
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=600&lines=🚀+Entusiasta+de+Programação;💻+Apaixonado+por+Tecnologia;🔥+Sempre+aprendendo+novas+coisas!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7B93E&size=28&center=true&vCenter=true&width=700&lines=🚀+Entusiasta+de+Programação;💻+Apaixonado+por+Tecnologia;🔥+Sempre+aprendendo+novas+coisas!)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</p>
 
 ---
 
 ### 👋 Sobre mim
 - Tenho **25 anos**
-- Amante da **tecnologia** desde os 10
-- Sempre explorando e criando projetos no **mundo do desenvolvimento**
+- Amante da **tecnologia** desde os 10 anos
+- Criador de projetos no **mundo do desenvolvimento**
+- Sempre buscando aprender algo novo 🚀
 
 ---
 
@@ -44,13 +49,6 @@
     src="https://github-readme-stats.vercel.app/api?username=elvisqt&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
   <img height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisqt&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"/>
-</p>
-
----
-
-### 🎶 Animações divertidas
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 </p>
 
 ---
