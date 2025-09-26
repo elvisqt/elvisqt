@@ -58,7 +58,7 @@ Desde os meus **10 anos** exploro o universo da tecnologia, sempre aprendendo e 
 ---
 
 ### 🐍 Snake Animation
-![Snake animation](https://github.com/elvisqt/elvisqt/blob/output/snake.svg)
+[![Snake animation](https://github.com/elvisqt/elvisqt/blob/output/snake.svg)](https://github.com/elvisqt/elvisqt/blob/main/.github/workflows/snake.yml)
 
 ---
 
