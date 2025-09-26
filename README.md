@@ -58,9 +58,7 @@ Desde os meus **10 anos** exploro o universo da tecnologia, sempre aprendendo e 
 ---
 
 ### 🐍 Snake Animation
-> ⚡ Para funcionar, adicione o workflow `snake.yml` que te passei antes!  
-
-![Snake animation](https://github.com/elvisqt/elvisqt/snake.yml)
+![Snake animation](https://github.com/elvisqt/elvisqt/blob/output/snake.svg)
 
 ---
 
